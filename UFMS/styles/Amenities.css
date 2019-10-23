@@ -1,0 +1,31 @@
+h1{
+	margin-left: 20px;
+	color: white;
+}
+
+.buttons{
+	width: 90%;
+	height: 100px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-right: 5%;
+	margin-left: 5%;
+	background-color: rgb(150,50,50);
+	opacity: 0.8;
+	color: #fff;
+	-moz-transition: all 1s ease-out;
+ 	-o-transition: all 1s ease-out;
+ 	-webkit-transition: all 1s ease-out;
+}
+
+.buttons:hover{
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-o-transform: scale(1.1);
+}
+
+body{
+	background-image: url(../img/amenities-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
