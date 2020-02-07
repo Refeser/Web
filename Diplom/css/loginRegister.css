@@ -1,0 +1,18 @@
+.panel{
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 30px;
+	border-radius: 2px;
+	border-style: solid;
+	border-color: #d0d0d0;
+	background-color: #e1e1e1;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+/*.success{
+	color: rgba(36,194,21,0.0);
+}*/
